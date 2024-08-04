@@ -2,12 +2,13 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "beta"
+  title: "lingkungan St.Andreas"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - favorit.qmd
 
 format:
   html:
